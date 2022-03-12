@@ -11,3 +11,6 @@
 ## [Figma Конфигуратор](https://www.figma.com/file/JpzeCtYrCeHRpaEpmwZnWk/%D0%9A%D0%BE%D0%BD%D1%84%D0%B8%D0%B3%D1%83%D1%80%D0%B0%D1%82%D0%BE%D1%80-(%D0%B4%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD)-(v2)?node-id=264%3A308)
 ## [Figma ресторан](https://www.figma.com/file/HHyBI1g24kKpW8moabTEH1/%D0%A0%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD?node-id=0%3A1)
 ## [Figma фриланс](https://www.figma.com/file/jiQp5mFBzXipjrzya7GKs0/%D0%A4%D1%80%D0%B8%D0%BB%D0%B0%D0%BD%D1%81-%D0%B1%D0%B8%D1%80%D0%B6%D0%B0?node-id=6159%3A77425)
+## [Figma Valorant(https://www.figma.com/file/mc4NyQ8AYUV7KjImsy5cVY/Valorant---Agents-page-concept-design-(Community)?node-id=1%3A2)
+## [Figma Лендинг](https://www.figma.com/file/aHd2rHMrnzDXhowLuIQjIyVQ/ThriveTalk-Landing-Page?node-id=0%3A1)
+## [Figma своё протфолио](https://www.figma.com/file/5D9pDuLtS042hzaoN69Kd7/Free--Landing--Page-Template?node-id=254%3A515)
