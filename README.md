@@ -14,3 +14,7 @@
 ## [Figma Valorant](https://www.figma.com/file/mc4NyQ8AYUV7KjImsy5cVY/Valorant---Agents-page-concept-design-(Community)?node-id=1%3A2)
 ## [Figma Лендинг](https://www.figma.com/file/aHd2rHMrnzDXhowLuIQjIyVQ/ThriveTalk-Landing-Page?node-id=0%3A1)
 ## [Figma своё протфолио](https://www.figma.com/file/5D9pDuLtS042hzaoN69Kd7/Free--Landing--Page-Template?node-id=254%3A515)
+## [Figma магаз](https://www.figma.com/file/ZlcWXHCy2wEpb5BdsuSdYq/shop?node-id=0%3A1)
+## [Figma ифо сайт](https://www.figma.com/file/D0PYVhmM4TkUincpTDlfBt/Website-Design?node-id=8%3A374)
+## [Figma красивый сайт](https://www.figma.com/file/WGRqB9nIOWp8VwNvcANshR/Nike-Landing-Pages?node-id=0%3A1)
+
